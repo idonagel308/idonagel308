@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Ido
 
-<!--
-**idonagel308/idonagel308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Economics student at the Open University of Israel. I'm interested in software that connects code to real decisions, especially around money and data.
 
-Here are some ideas to get you started:
+### What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Financial Literacy Advisor](https://github.com/idonagel308/financial-advisor)**: a Java / Spring Boot REST API that turns a short risk questionnaire into a stocks / money-market split and a month-by-month compound-interest projection. I wrote every line myself; 41 tests.
+- **[StudyKeep](https://github.com/idonagel308/student-keep)**: a full-stack study tracker (Next.js, PostgreSQL) that I use every day. I built it by directing Claude Code, an AI coding agent.
+
+### Right now
+
+- Studying Data Structures & Algorithms and Database Systems
+- Looking for a student software developer role
+
+[LinkedIn](https://www.linkedin.com/in/ido-nagel-837a57342)
